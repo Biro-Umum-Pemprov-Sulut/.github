@@ -2,7 +2,7 @@ Biro Umum Setda Provinsi Sulawesi Utara membentuk <b>Unit Layanan Administrasi (
 <br>
 ![download](https://user-images.githubusercontent.com/12389794/232686414-71caa187-3b8d-446d-a84d-36b60169b395.png)
 <p align="justify">
-  <b>UPT ULA Biro Umum</b> menggunakan sistem kerja Ola Dokumen Sesuai Ketentuan (ODSK). Fungsi dari ULA agar proses administrasi surat menyurat di lingkup pemprov sulut bisa berjalan dengan baik, setiap dokumen yang masuk melalui ULA diproses dengan memanfaatkan teknologi IT.
+  <b>UPT ULA Biro Umum</b> menggunakan sistem kerja Ola Dokumen Sesuai Ketentuan (ODSK). Fungsi dari ULA agar proses administrasi surat menyurat di lingkup pemprov sulut bisa berjalan dengan baik, setiap dokumen yang masuk melalui ULA diproses dengan memanfaatkan teknologi informasi.
 </p>
 
 <p align="justify">
